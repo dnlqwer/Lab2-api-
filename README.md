@@ -12,6 +12,22 @@
  curl -X POST "https://514d-5-166-62-197.eu.ngrok.io/model" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"context_raw\":[\"DeepPavlov is a library for NLP and dialog systems.\"], \"question_raw\":[\"What is DeepPavlov?\"]}"
  
  Получаем следующий вывод: 
+ ![image info](https://github.com/dnlqwer/Lab2-api-/blob/main/pic/1.png)
+ 
+ ### Работаем с сервером через графическую оболочку.
+ 
+ Для работы переходим по сгенерированной ссылку: https://514d-5-166-62-197.eu.ngrok.io После перехода мы должны увидеть: 
+
+![image info](https://github.com/dnlqwer/Lab2-api-/blob/main/pic/2.png)
+
+Далее для работы нажимаем в правом верхнем углу кнопку <code>Try it out</code>
+
+Проверяем на том же примере работу модели. Получаем ответ: 
+
+![image info](https://github.com/dnlqwer/Lab2-api-/blob/main/pic/3.png) 
+
+Видим что сервер откликнулся и дал ответ. 
+
  
  
 
