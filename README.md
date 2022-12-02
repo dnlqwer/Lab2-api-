@@ -28,6 +28,7 @@
 
 Видим что сервер откликнулся и дал ответ. 
 
- 
+ При реализации через Jupiter notebook модели выдает ошибку 405 Method not allowed, не понятно с чем связанно, т.к через cmd все прошло успешно, а тут сервер не дает отклика: 
+![image info](https://github.com/dnlqwer/Lab2-api-/blob/main/pic/5.png) 
  
 
